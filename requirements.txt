@@ -1,0 +1,2 @@
+# Core scientific environment only; see docs/dependencies.md.
+-r requirements/core.txt

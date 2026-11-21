@@ -1,0 +1,3 @@
+# Direct versions used for the Phase 2 checks; not the original experiment lock.
+numpy==2.3.5
+matplotlib==3.10.6

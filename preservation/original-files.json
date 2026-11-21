@@ -1,0 +1,186 @@
+{
+  "schema_version": 1,
+  "snapshot": "Original files before Phase 2 additions or repairs",
+  "created_utc": "2026-11-20T18:45:19.055546+00:00",
+  "hash_algorithm": "SHA-256",
+  "scope": "All original project files; .git metadata excluded; paths relative to repository root",
+  "file_count": 35,
+  "total_bytes": 6327784,
+  "files": [
+    {
+      "path": "C-GRID.jpg",
+      "bytes": 198623,
+      "sha256": "c086d8f9fd836a2192baabc0c77f067215d9de4e2444eef1d0cae5594cd6b759"
+    },
+    {
+      "path": "FLOWCHART.jpg",
+      "bytes": 94931,
+      "sha256": "af463f3298b67a1ae14419feb0f77364faf1afedbe0f935421e5f5060395b087"
+    },
+    {
+      "path": "Figures/PhiFlow_grid.png",
+      "bytes": 64528,
+      "sha256": "3b7b1ce046250dc53ed3001420fc4ad5ec06f1042dc254ede18a4f1c8fd737ad"
+    },
+    {
+      "path": "Figures/SL_PLOTS.png",
+      "bytes": 156159,
+      "sha256": "b83b9f717b462dd2d75814d5b5efbabbd1415e59014baa72d1713b0ab2a21c80"
+    },
+    {
+      "path": "Figures/Sensitivity_to_initial_conditions (1).png",
+      "bytes": 179353,
+      "sha256": "34531086e7471feb1f7098cd9c6c0107158577f03379585784f5b21234e02fba"
+    },
+    {
+      "path": "Figures/Task_G4_RK4_eta_after_1_day__dt_=_10_s.png",
+      "bytes": 41742,
+      "sha256": "dc0ee51f211a79ac9c094c196cda84e810a8278f82a5bf92c3930a2cb0cbe823"
+    },
+    {
+      "path": "Figures/analytical solution.png",
+      "bytes": 32929,
+      "sha256": "f587881224575e246fa7af7c1d4bc413f3812ef68ac2efa5d2ee17c5497ea22a"
+    },
+    {
+      "path": "Figures/energy_plot.png",
+      "bytes": 99842,
+      "sha256": "ac9a0b687bc91cee67f791d885adf053e7390d7cc23d9299e059bfe2c25948b9"
+    },
+    {
+      "path": "Figures/energy_plot_energy.png",
+      "bytes": 94085,
+      "sha256": "ddf440fea46de7d6e25f365c1750df9c33c1f65b7333023fac9dbcddfdb4dfa6"
+    },
+    {
+      "path": "Figures/error_fields_100x100.png",
+      "bytes": 267202,
+      "sha256": "d755957adcb8cd2d3db0a843822665e232f2a08333866bd6826da049411ac392"
+    },
+    {
+      "path": "Figures/error_fields_steady_state.png",
+      "bytes": 260468,
+      "sha256": "5b6034e4b18653ef87e00b750a2ac745546021a76b48962968673c78296af11a"
+    },
+    {
+      "path": "Figures/fine_coarse_grid (1).png",
+      "bytes": 142699,
+      "sha256": "784826f13a60b660776aae084341962a247c257253bf1673f21f4160e46831bc"
+    },
+    {
+      "path": "Figures/gyre_model_100x100.png",
+      "bytes": 413200,
+      "sha256": "3628178fb1bd5fea3203919bb51e8c36f25eef1efeefa0269b4cae5ff6d01066"
+    },
+    {
+      "path": "Figures/gyre_model_1_day_check.png",
+      "bytes": 416673,
+      "sha256": "b0ab960e88efe1e81ee477844b150c3fc4939cf4f728a412953ca1ebaf3a521b"
+    },
+    {
+      "path": "Figures/gyre_model_200_day_steady_state.png",
+      "bytes": 387878,
+      "sha256": "59bf94b5d28af224d3c58896b2fbe0715bbb05668188e2e8c594a513226ce359"
+    },
+    {
+      "path": "Final_Report.pdf",
+      "bytes": 1730113,
+      "sha256": "e9a7e2473d5be454617c55d6793b57d22b336510940b4909da133f563d0425e3"
+    },
+    {
+      "path": "G7_GYRE.jl",
+      "bytes": 6092,
+      "sha256": "447f8e884f0db159b8fde0db310f8bd2ff415566b4b51be81d8f86fd9f09251c"
+    },
+    {
+      "path": "Project_TWO.",
+      "bytes": 45,
+      "sha256": "85cea451eec057fa7e734548ca3ba6d779ed5836a3f9de14b8394575ef0d7d8e"
+    },
+    {
+      "path": "REVISED_TASK A AND B.pdf",
+      "bytes": 131040,
+      "sha256": "9337c3fa8a69e6775576f29e3d54a3205c91bdf1775a4eee066adbae0cd3d872"
+    },
+    {
+      "path": "analytical.py",
+      "bytes": 1812,
+      "sha256": "7b377e22ac03a158b3253738d92e33284226d41c543b7abdc01bfff6f679b5ca"
+    },
+    {
+      "path": "diagnostics.py",
+      "bytes": 7216,
+      "sha256": "47cf825cd984c7a8c33ae4ddbca79ec2e9e0807bc1ae494727bb75891ad3e83f"
+    },
+    {
+      "path": "energy_julia_fast.csv",
+      "bytes": 927635,
+      "sha256": "bc7f10be51a412e9cef11865b26ca26f70b6c73664d3bbeaabd8005852690f89"
+    },
+    {
+      "path": "eta_julia_fast.csv",
+      "bytes": 206509,
+      "sha256": "a54ff76f0359a5562f62846e91391800cdfea034ffa5de1d27a7fffb380a9a1f"
+    },
+    {
+      "path": "main.py",
+      "bytes": 3622,
+      "sha256": "300f8c1e0498257c5b60f39e069b9acd7e0fab52f90f2f6616cb0878bc27b19e"
+    },
+    {
+      "path": "parameters.py",
+      "bytes": 102,
+      "sha256": "381b39bd1f60110b621b3209d16b3f125f186301508fa1f62f38c6330b966c3d"
+    },
+    {
+      "path": "plotting.py",
+      "bytes": 6832,
+      "sha256": "0220a250f6965abe7be2188745ee1fb578bef6f4ca8eff2adefc8d63abe37a42"
+    },
+    {
+      "path": "semi_lagrangian.py",
+      "bytes": 5796,
+      "sha256": "a64cb35054027fb15a8dd1ad026ebe168650ed7fa96910a8ff55d9ffe495db1f"
+    },
+    {
+      "path": "task_f.py",
+      "bytes": 1763,
+      "sha256": "062806e1c0640951208d0b19083bff81a8e30f1fe18a6eb420bdb08965725934"
+    },
+    {
+      "path": "task_g2_jax.py",
+      "bytes": 8013,
+      "sha256": "89cb7e8dcaf6b094f60506e4a7056c352274330575c7c38353af2b75a922c2d1"
+    },
+    {
+      "path": "task_g3_phiflow.py",
+      "bytes": 3875,
+      "sha256": "cec873b96e8f91e3214ba08e7cc3a7f577d9b69087147bb828d99a2cf203d6d5"
+    },
+    {
+      "path": "task_g4_rk4.py",
+      "bytes": 7117,
+      "sha256": "f8e936439c7b187d0b9099f1edc97aa3f454e5b76c6ce21bcd6b61e42315dfae"
+    },
+    {
+      "path": "task_g5_sensitivity.py",
+      "bytes": 8459,
+      "sha256": "0a3cd0aeff18241a974891086e6d8b4173ad0c6fcf734443101b109c5fddc0fa"
+    },
+    {
+      "path": "task_g7_julia.py",
+      "bytes": 1538,
+      "sha256": "60133a182a36ae7bd2b995476130f4a0b8be4155e0a0049a356df68dafe0a902"
+    },
+    {
+      "path": "u_julia_fast.csv",
+      "bytes": 208469,
+      "sha256": "a7346534dee44be487f09d714645d87640d251e4eb4ae7ee4bdfaa4616012c00"
+    },
+    {
+      "path": "v_julia_fast.csv",
+      "bytes": 211424,
+      "sha256": "3ed498fad64e1b88eca58bc289ff198d64324bfb635480379fa098d2d45b45a6"
+    }
+  ]
+}

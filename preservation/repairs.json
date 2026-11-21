@@ -1,0 +1,31 @@
+{
+  "schema_version": 1,
+  "created_utc": "2026-11-21T01:45:19.381723+00:00",
+  "scope": "Two import-only repairs explained before edits and applied after the user instructed continuation with approved fixes. Original bytes retained. The approved exact three-line main.py wiring repair was applied after preserving and verifying its original bytes.",
+  "repairs": [
+    {
+      "path": "diagnostics.py",
+      "original_backup": "preservation/originals/diagnostics.py",
+      "original_sha256": "47cf825cd984c7a8c33ae4ddbca79ec2e9e0807bc1ae494727bb75891ad3e83f",
+      "repaired_sha256": "685ca20c3898e8ce7a42ce539081b29f09a0d6f6d694d7d0341e2b4c8504dddb",
+      "repaired_bytes": 7223,
+      "reason": "Import the existing shared drag coefficient; no equations or parameter values changed."
+    },
+    {
+      "path": "task_g4_rk4.py",
+      "original_backup": "preservation/originals/task_g4_rk4.py",
+      "original_sha256": "f8e936439c7b187d0b9099f1edc97aa3f454e5b76c6ce21bcd6b61e42315dfae",
+      "repaired_sha256": "86dcc63079e14a52a7de0f53f38cbe8212a227e514c5f238b9079bdce5ccde1b",
+      "repaired_bytes": 7118,
+      "reason": "Resolve the baseline solver module name; no RK4 stages or operators changed."
+    },
+    {
+      "path": "main.py",
+      "original_backup": "preservation/originals/main.py",
+      "original_sha256": "300f8c1e0498257c5b60f39e069b9acd7e0fab52f90f2f6616cb0878bc27b19e",
+      "repaired_sha256": "bacd592f29e700dc479b60d8ee586415b542dbdbe37af9670a524a7c3315c879",
+      "repaired_bytes": 3604,
+      "reason": "Approved exact three-line execution/reporting repair: import the existing analytical helper and use the two timing keys returned by benchmark_rk4_fb. No scientific computations changed."
+    }
+  ]
+}

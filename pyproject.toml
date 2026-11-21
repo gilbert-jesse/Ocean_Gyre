@@ -1,0 +1,10 @@
+# Test configuration only. The existing flat source layout is not packaged yet.
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
+markers = [
+    "jax: requires an installed JAX/JAXLIB environment",
+    "phiflow: requires an installed PhiFlow environment",
+    "julia: requires a Julia executable (JULIA environment variable or PATH)",
+]

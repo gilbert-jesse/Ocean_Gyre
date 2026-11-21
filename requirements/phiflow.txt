@@ -1,0 +1,4 @@
+# Optional and UNVALIDATED in the inspected environments.
+# The distribution phiflow supplies the phi.flow import.
+-r core.txt
+phiflow

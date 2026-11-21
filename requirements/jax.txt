@@ -1,0 +1,5 @@
+# Optional and UNVALIDATED in the inspected environments.
+# Resolve and record compatible versions in a separate environment before use.
+-r core.txt
+jax
+jaxlib
